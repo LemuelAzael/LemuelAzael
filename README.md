@@ -2,7 +2,7 @@
 
 Soy un profesional con formación en **Ingeniería Mecatrónica**, reconvertido hacia la **Ingeniería de Datos**. Durante mi carrera adquirí las competencias esenciales que todo ingeniero desarrolla: **pensamiento analítico, resolución de problemas, enfoque en la eficiencia y capacidad para diseñar soluciones sistemáticas**.
 
-Al final de mi formación descubrí mi interés por los datos y desde entonces he impulsado mi transición hacia este campo a través de **certificaciones, aprendizaje autodidacta y proyectos personales**, donde aplico conceptos de automatización, arquitectura de datos y cloud computing.
+En mi formación descubrí mi interés por los datos y desde entonces he impulsado mi transición hacia este campo a través de **certificaciones, aprendizaje autodidacta y proyectos personales**, donde aplico conceptos de automatización, arquitectura de datos y cloud computing.
 
 Mi objetivo es integrarme en equipos de datos donde pueda **aportar valor técnico y analítico**, construyendo pipelines robustos, escalables y alineados a las necesidades del negocio.
 
